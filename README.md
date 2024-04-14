@@ -1,4 +1,5 @@
 # 35B-OOP
-weekly task of Java/OOP
+Weekly task of Java/OOP
 
--week 1 Task,April 14
+-Week 1 Task,April 14
+-This is for testing purpose
